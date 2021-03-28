@@ -1,0 +1,8 @@
+NAME           NIC-NUMBER        PHONE-NUMBER      E-MAIL-ADDRESS                CAR'S-NO.PLATE      CAR-CLASS      DRIVER'S-SALARY     4-DIGIT-ID
+AbdulRaffay    4210166557488     03132290956       raffay009@gmail.com                     CD-098                        X                        150000.0                      7845    
+AbdulRaffay    4210166557488     03132290956       raffay009@gmail.com                     CD-098                        X                        150000.0                      7845    
+
+NAME           NIC-NUMBER        PHONE-NUMBER      E-MAIL-ADDRESS                CAR'S-NO.PLATE      CAR-CLASS      DRIVER'S-SALARY     4-DIGIT-ID
+ZainAli        4210155667844     03132290958       zainali009@gmail.com                    CD-89                         GO                       60000.0                       4512    
+AliKhan        42101665547114    031322909854      alikhan008@hotmail.com                  CG-98                         GO                       60000.0                       4512    
+

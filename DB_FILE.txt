@@ -1,0 +1,1 @@
+NAME           NIC NUMBER        PHONE NUMBER      E-MAIL ADDRESS                CAR'S NO.PLATE      CAR CLASS      DRIVER'S SALARY     4-DIGIT ID
